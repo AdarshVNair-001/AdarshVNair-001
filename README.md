@@ -5,6 +5,16 @@
 
 - 💬 I'm currently learning **HTML, CSS, JavaScript, and Python**
 
+-🧑‍💻 Aspiring web developer **with a focus on frontend and UI fundamentals**
+
+-📘 Experience working with **HTML, CSS, JavaScript, and Python**
+
+-🖌️ Strong interest in **clean UI, responsive design, and usability**
+
+-📈 Actively learning through **practical projects and experimentation**
+
+-🗂️ Comfortable using **Git and GitHub for version control**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/adarsh-v-nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adarsh-v-nair" height="30" width="40" /></a>
