@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi, I’m Adarsh V Nair 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
@@ -101,4 +100,3 @@ width="40" />
 </a>
 
 </p>
-```
