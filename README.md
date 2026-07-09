@@ -29,15 +29,27 @@ Every project represents a step in my learning journey and my commitment to beco
 
 <h3 align="left">Connect with me</h3>
 
+<h3 align="left">Connect with me</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-v-nair" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="Adarsh V Nair LinkedIn"
-height="30"
-width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/adarsh-v-nair" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="mailto:adarshvnair5000@gmail.com">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+      alt="Gmail"
+      height="30"
+      width="40" />
+  </a>
 </p>
+
+📧 **Email:** <a href="mailto:adarshvnair5000@gmail.com">adarshvnair5000@gmail.com</a>
 
 <h3 align="left">Languages and Tools</h3>
 
