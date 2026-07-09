@@ -49,7 +49,7 @@ Every project represents a step in my learning journey and my commitment to beco
   </a>
 </p>
 
-📧 **Email:** <a href="mailto:adarshvnair5000@gmail.com">adarshvnair5000@gmail.com</a>
+
 
 <h3 align="left">Languages and Tools</h3>
 
