@@ -27,7 +27,6 @@ I’m a passionate developer who enjoys building modern web applications and cre
 Every project represents a step in my learning journey and my commitment to becoming a better software developer.
 </p>
 
-<h3 align="left">Connect with me</h3>
 
 <h3 align="left">Connect with me</h3>
 
