@@ -41,12 +41,12 @@ Every project represents a step in my learning journey and my commitment to beco
   </a>
 
   <a href="mailto:adarshvnair5000@gmail.com">
-    <img align="center"
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-      alt="Gmail"
-      height="30"
-      width="40" />
-  </a>
+  <img
+    src="https://img.icons8.com/color/48/gmail-new.png"
+    alt="Gmail"
+    width="30"
+    height="30"/>
+</a>
 </p>
 
 
