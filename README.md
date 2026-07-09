@@ -40,13 +40,6 @@ Every project represents a step in my learning journey and my commitment to beco
       width="40" />
   </a>
 
-  <a href="mailto:adarshvnair5000@gmail.com">
-  <img
-    src="https://img.icons8.com/color/48/gmail-new.png"
-    alt="Gmail"
-    width="30"
-    height="30"/>
-</a>
 </p>
 
 
