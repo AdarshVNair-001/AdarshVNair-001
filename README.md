@@ -43,113 +43,80 @@ width="40" />
 
 <p align="left">
 
-<!-- C -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 
-<!-- C++ -->
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
 
-<!-- C# -->
-<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
 
-<!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
 </a>
 
-<!-- ASP.NET Core -->
-<a href="https://learn.microsoft.com/aspnet/core/" target="_blank" rel="noreferrer">
+<a href="https://learn.microsoft.com/aspnet/core/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
 </a>
 
-<!-- ADO.NET -->
-<a href="https://learn.microsoft.com/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ADO.NET" width="40" height="40"/>
-</a>
-
-<!-- Entity Framework Core -->
-<a href="https://learn.microsoft.com/ef/core/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="Entity Framework Core" width="40" height="40"/>
-</a>
-
-<!-- Angular -->
-<a href="https://angular.io" target="_blank" rel="noreferrer">
+<a href="https://angular.io" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
 </a>
 
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </a>
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 
-<!-- HTML5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 </a>
 
-<!-- CSS3 -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
 
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
 
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
 
-<!-- VS Code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </a>
 
-<!-- Visual Studio -->
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/>
 </a>
 
-<!-- Postman -->
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </a>
 
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right:12px;">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </a>
 
